@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍💻 Mamasaliev Amirbek
+### Frontend Developer, Aspiring IT Specialist and Technology Enthusiast. Currently a high school student with a focus on programming, cybersecurity. Passionate about creating software that improves lives and exploring the intersection of technology and humanity.
 
-<!--
-**amirnootfound/amirnootfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirnotfound) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rpamirnotfound) [![Telegram](https://img.shields.io/badge/Telegram-%23004E8C.svg?style=for-the-badge&logo=telegram&logoColor=white)](htpps://t.me/amir_not_found)
 
-Here are some ideas to get you started:
+## 🔗 [amirby.com](https://amirby.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23324A7B.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+
+# 📊 GitHub Stats
+![](https://wakatime.com/badge/user/c89445db-c999-46ee-ab4a-dee9cddc25ea/project/177376a6-70b1-4e10-9032-eaf4524d411a.svg)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ibnaleem&icon=0&color=0)](https://visitcount.itsvg.in)
