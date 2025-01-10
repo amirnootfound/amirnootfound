@@ -1,5 +1,7 @@
+<img src="Banner.png" alt="GitHub Banner" width="100%" />
+
 # 👨‍💻 Hello World! I'm Amir, Frontend Developer.
-### Developer, Aspiring IT Specialist and Technology Enthusiast. Currently a high school student with a focus on programming, cybersecurity. Passionate about creating software that improves lives and exploring the intersection of technology and humanity.
+### Developer, Aspiring IT Specialist and Technology Enthusiast. Currently a high school student with a focus on programming, cybersecurity. Passionate about creating software that improves lives and exploring the intersection of technology and humanity. Besides Technology I also like to watch movies and series. My favourite TV-Shows are Breaking Bad and Better Call Saul.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirnotfound) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rpamirnotfound) [![Telegram](https://img.shields.io/badge/Telegram-%23004E8C.svg?style=for-the-badge&logo=telegram&logoColor=white)](htpps://t.me/amir_not_found)
