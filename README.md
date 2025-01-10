@@ -40,9 +40,9 @@
 [![Amir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirnotfound)](https://github.com/amirnootfound/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirnootfound/amirnootfound/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirnootfound/amirnootfound/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amirnootfound/amirnootfound/output/github-snake.svg" />
 </picture>
 
 ---
