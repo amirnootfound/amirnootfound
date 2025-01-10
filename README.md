@@ -37,8 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amirnootfound&show_icons=true" />
 </picture> 
 
-[![Amir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirnotfound)](https://github.com/amirnootfound/github-readme-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirnootfound/amirnootfound/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirnootfound/amirnootfound/output/github-snake.svg" />
