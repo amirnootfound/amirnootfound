@@ -13,7 +13,37 @@
 ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://wakatime.com/badge/user/c89445db-c999-46ee-ab4a-dee9cddc25ea/project/177376a6-70b1-4e10-9032-eaf4524d411a.svg)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnootfound&layout=compact&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=amirnootfound&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirnootfound&show_icons=true" />
+</picture>  <br>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=amirnootfound&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=amirnootfound&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirnootfound&show_icons=true" />
+</picture> 
+
+[![Amir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirnotfound)](https://github.com/amirnootfound/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ibnaleem&icon=0&color=0)](https://visitcount.itsvg.in)
