@@ -4,7 +4,7 @@
 ### Developer, Aspiring IT Specialist and Technology Enthusiast. Currently a high school student with a focus on programming, software development, AI. Passionate about creating software that improves lives and exploring the intersection of technology and humanity. Moreover I'm very into wathcing regular and action or even historical, "Based on a true story" movies and especcially series (Brealing Bad, Stramger Things, Better Call Saul my favs.)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirnotfound) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rpamirnotfound)
+[![LinkedIn](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirnotfound)
 
 ## 🔗 [amirby.com](https://amirby.com)
 
