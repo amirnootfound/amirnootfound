@@ -1,6 +1,6 @@
 <img src="Banner.png" alt="GitHub Banner" width="100%" />
 
-# 📌 Hey! My name is Amirbek, Frontend Developer.
+# 📌 Hey! My name is Amirbek, Frontend Developer and Software Engineer.
 ### Developer, Aspiring IT Specialist and Technology Enthusiast. Currently a high school student with a focus on programming, software development, AI. Passionate about creating software that improves lives and exploring the intersection of technology and humanity. Moreover I'm very into wathcing regular and action or even historical, "Based on a true story" movies and especcially series (Brealing Bad, Stramger Things, Better Call Saul my favs.)
 
 ## 🌐 Socials
