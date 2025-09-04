@@ -1,7 +1,7 @@
 <img src="Banner.png" alt="GitHub Banner" width="100%" />
 
-# 📌 Mamasaliev Amirbek Talantbekovich, better known by his nickname amirnotfound!
-### I'm a Developer, Aspiring IT Specialist and Technology Enthusiast. Just graduated, focusing on programming, software development and AI. Passionate about creating software that improves lives and exploring the intersection of technology and humanity. Additionally, I really like Netflix Series and tv-shows like breaking bad and its spin-off Better Call Saul! 
+# 📌 Biography
+### Mamasaliev Amirbek Talantbekovich, better known by his nickname amirnotfound, is a Kyrgyz developer, 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirnotfound)
