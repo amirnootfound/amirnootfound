@@ -1,7 +1,7 @@
 <img src="Banner.png" alt="GitHub Banner" width="100%" />
 
 # 📌 Biography
-### Mamasaliev Amirbek Talantbekovich, better known by his nickname amirnotfound, is a Kyrgyz developer, 
+### Mamasaliev Amirbek Talantbekovich, better known by his nickname amirnotfound, is a Kyrgyz developer, web and mobile developer, skilled in building applications using Next.js and React. He creates modern, responsive user interfaces, works with APIs, and designs marketplace-style platforms where users can register and share products or services. Along with front-end expertise, he has experience in UI/UX design, prototyping, and integration of different tools.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirnotfound)
